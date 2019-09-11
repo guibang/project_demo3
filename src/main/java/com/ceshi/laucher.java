@@ -12,4 +12,5 @@ public class laucher {
             SpringApplication.run(laucher.class);
         }
 
+    String s = "dev";
 }
