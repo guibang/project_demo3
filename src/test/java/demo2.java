@@ -7,5 +7,6 @@ public class demo2 {
         String s = "";
         Map map = JSON.parseObject(s, Map.class);
         System.out.println("map = " + map);
+        s = "dev";
     }
 }
